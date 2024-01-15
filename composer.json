@@ -1,8 +1,8 @@
 {
-    "name": "execu/composer-autoload",
+    "name": "execu/projetcomposer",
     "autoload": {
         "psr-4": {
-            "Execu\\ComposerAutoload\\": "src/"
+            "Execu\\Projetcomposer\\": "src/"
         }
     },
     "authors": [
