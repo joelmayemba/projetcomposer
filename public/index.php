@@ -6,3 +6,4 @@ use Execu\Projetcomposer\App\Hello;
 
 $hello = new Hello();
 echo $hello->hello();
+
