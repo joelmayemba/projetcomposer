@@ -1,8 +1,8 @@
 {
-    "name": "execu/projetcomposer",
+    "name": "projetcomposer/app",
     "autoload": {
         "psr-4": {
-            "Execu\\Projetcomposer\\": "src/"
+            "Projetcomposer\\App\\": "src/"
         }
     },
     "authors": [
@@ -11,7 +11,5 @@
             "email": "joelmayemba@gmail.com"
         }
     ],
-    "require": {
-        "gipetto/cowsay": "^1.2"
-    }
+    "require": {}
 }

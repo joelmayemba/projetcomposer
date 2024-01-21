@@ -1,6 +1,6 @@
 <?php
 
-namespace Execu\Projetcomposer\App;
+namespace Projetcomposer\App;
 
 class Hello
 {
