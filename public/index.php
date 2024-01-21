@@ -2,7 +2,8 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Execu\Projetcomposer\App\Hello;
+use Projetcomposer\App\Hello;
 
 $hello = new Hello();
 echo $hello->hello();
+

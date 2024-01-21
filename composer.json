@@ -1,8 +1,8 @@
 {
-    "name": "execu/projetcomposer",
+    "name": "projetcomposer/app",
     "autoload": {
         "psr-4": {
-            "Execu\\Projetcomposer\\": "src/"
+            "Projetcomposer\\App\\": "src/"
         }
     },
     "authors": [
